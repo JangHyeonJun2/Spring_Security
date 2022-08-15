@@ -14,7 +14,8 @@
 
 #### Chapter 1.2
 - 인증 API - 사용자 정의 보안 기능 구현
-  
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/38535971/184591822-eb48b34d-c36d-4c93-a9ae-e61f9654c968.png">
+
 
 - SecurityConfig 설정
 ```java
