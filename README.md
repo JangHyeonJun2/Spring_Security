@@ -41,3 +41,5 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 - 그렇기 때문에 추후에 상속받지 않고 필요한 클래스에 `@Bean` 을 직접 주입해줘야함...
 - [관련블로그 바로가기](https://velog.io/@pjh612/Deprecated%EB%90%9C-WebSecurityConfigurerAdapter-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EC%B2%98%ED%95%98%EC%A7%80)
 
+#### chapter 1.3
+- 인증 API - Form 인증
