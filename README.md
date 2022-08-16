@@ -43,3 +43,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 #### chapter 1.3
 - 인증 API - Form 인증
+[![2022-08-17-01-06-38.png](https://i.postimg.cc/G3T8Fycg/2022-08-17-01-06-38.png)](https://postimg.cc/rzcwczR5)
+
+[![2022-08-17-01-48-18.png](https://i.postimg.cc/6pt8xbCF/2022-08-17-01-48-18.png)](https://postimg.cc/jL3xzXgh)
